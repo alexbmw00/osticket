@@ -33,7 +33,7 @@ if(OSTINSTALLED!=TRUE){
 define('SECRET_SALT','Ix0kZ3o1DEblWG9nRtCDBeN6NkMYvzf5');
 
 #Default admin email. Used only on db connection issues and related alerts.
-define('ADMIN_EMAIL','demouser@opsgility.com');
+define('ADMIN_EMAIL','alexbmw00@gmail.com');
 
 # Database Options
 # ---------------------------------------------------
